@@ -1,0 +1,8 @@
+numpy
+pandas
+tensorflow
+tensorflow-addons
+scipy
+gym
+gym[box2d]
+pyglet
